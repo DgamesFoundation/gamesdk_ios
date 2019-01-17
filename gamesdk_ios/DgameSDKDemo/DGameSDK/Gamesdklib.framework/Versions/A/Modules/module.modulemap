@@ -1,0 +1,8 @@
+framework module "Gamesdklib" {
+	header "ref.h"
+    header "Gamesdklib.objc.h"
+    header "universe.objc.h"
+    header "Gamesdklib.h"
+
+    export *
+}
